@@ -8,3 +8,6 @@ Comming features:
  -sd card system
  -it have its own programming language
  -sound system(compleatly basic)
+
+Contact for:
+ Discord: @uretech
