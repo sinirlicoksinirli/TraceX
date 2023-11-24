@@ -1,1 +1,10 @@
-
+-Fragment shader is too bugy
+-vertex shader is not working compleatly
+-too high memory usage
+-not friendly module system
+-not optimized
+Comming features:
+ -be fixed all of top
+ -sd card system
+ -it have its own programming language
+ -sound system(compleatly basic)
